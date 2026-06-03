@@ -37,6 +37,8 @@
 
 
 ## **Result**
+<img width="2159" height="1535" alt="image" src="https://github.com/user-attachments/assets/8a3f4616-249c-41a1-9164-148f75a50e95" />
+
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
 **VOLTAGE GAIN =20db**
