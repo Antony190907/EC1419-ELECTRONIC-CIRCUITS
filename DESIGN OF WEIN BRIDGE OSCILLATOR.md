@@ -19,7 +19,7 @@
 ## Graph
 <img width="1280" height="322" alt="image" src="https://github.com/user-attachments/assets/575b7daa-651d-4446-9e22-15a7ac561375" />
 
-<img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
+
 <img width="2160" height="1048" alt="WhatsApp Image 2026-06-03 at 10 13 15 PM" src="https://github.com/user-attachments/assets/dc07d788-e32e-4003-8178-4a1a13fe855b" />
 
 
